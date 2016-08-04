@@ -307,7 +307,9 @@
 			]
 		},
 		{
+			"name": "LaTeXTools"
 			"details": "https://github.com/SublimeText/LaTeXTools",
+			"labels": ["latex", "bibtex"],
 			"releases": [
 				{
 					"sublime_text": "*",
